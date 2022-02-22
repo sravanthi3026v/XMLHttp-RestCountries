@@ -1,7 +1,3 @@
-// var xhr = new XMLHttpRequest();
-// xhr.open('GET',url);
-// xhr.send();
-// xhr.onload=function(){}
 //Q.How to compare two JSON have the same properties without order?
 //  a.var obj1 = { name: "Person 1", age:5 };
 //  b.var obj2 = { age:5, name: "Person 1" };
